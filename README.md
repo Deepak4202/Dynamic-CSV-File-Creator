@@ -26,4 +26,4 @@ A simple and interactive Python project that lets users dynamically create CSV f
 ## 💻 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/deepakvolgs/Dynamic-CSV-File-Creator.git
+   git clone https://github.com/Deepak4202/Dynamic-CSV-File-Creator.git
